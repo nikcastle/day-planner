@@ -35,7 +35,7 @@ for( var i = 0; i < hour.length; i++) {
     var p = $("<p>");
     hourBlock.addClass("hour row time-block");
     hourBlock.attr("data-hour", hour[i]);
-    p.text(hour[i]).addClass("col-md-2");
+    p.text(hour[i]).addClass("col-md-2 col-sm-1");
     // console.log(hour24);
     // console.log(currentHour);
     

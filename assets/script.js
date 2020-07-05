@@ -39,7 +39,7 @@ for( var i = 0; i < hour.length; i++) {
     // console.log(hour24);
     // console.log(currentHour);
     
-    //color code time blocks according to actual time, if it's 11:15 am, 11:00 hour will be red, 9:00 & 10:00 am will be grey, all later hours will be green
+    //color code time blocks according to actual time, if it's 11:15 am, 11:00 hour will be gold, 9:00 & 10:00 am will be grey, all later hours will be green
     if (hour24 < parseInt(currentHour)) {
         hourBlock.addClass("past");
     } else if (hour24 > parseInt(currentHour)) {

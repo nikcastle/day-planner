@@ -19,5 +19,4 @@ https://nikcastle.github.io/day-planner/
 ## Credits
 This app was created using an API from Moment.js; as well as making use of Google fonts and Bootstrap CSS. 
 
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
